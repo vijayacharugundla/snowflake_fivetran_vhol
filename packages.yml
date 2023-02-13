@@ -1,3 +1,7 @@
 packages:
-  - package: fivetran/fivetran_log
-    version: 0.7.0
+
+  - package: fivetran/google_ads_source
+    version: 0.1.0
+
+  - package: fivetran/google_ads
+    version: 0.1.0
